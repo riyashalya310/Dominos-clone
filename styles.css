@@ -1,0 +1,118 @@
+.background{
+    padding:10px;
+    padding-top: 50px;
+    justify-content: space-evenly;
+}
+.button1{
+    background-color: red;
+    color: white;
+}
+.top-bar{
+    justify-content: space-evenly;
+    margin: 20px;
+}
+a:visited{
+    color: black;
+}
+a:link{
+    color: black;
+}
+.dominosphoto{
+    height: 50px;
+    width: 100px;
+}
+.card1{
+    background-image: url("header.png");
+    background-size: contain;
+    height: 500px;
+    padding: 10px;
+    margin: 20px;
+}
+.card1para{
+    font-family: "caveat";
+    padding: 50px;
+    width: 500px;
+    align-items: center;
+}
+.button2{
+    background-color: #4bf542;
+    color: white;
+    height: 50px;
+    width: 350px;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;
+}
+.home{
+    color: #34c6eb;
+    background-color: #c9c7d1;
+    height: 40px;
+    padding: 5px;
+}
+.swiper{
+    width: 80%;
+    height: fit-content;
+}
+.swiper-slide img{
+    width: 100%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background2{
+    justify-content: space-evenly;
+    padding: 10px;
+    margin: 15px;
+}
+.card2{
+    padding: 10px;
+    border-radius: 10px;
+    border-style: dashed;
+    margin: 10px;
+}
+.button3{
+    color: red;
+    border-style: solid;
+    align-items: center;
+
+}
+.background3{
+    margin: 50px;
+    justify-content: end;
+    background-color: #ceeaed;
+    padding: 10px;
+}
+.card3{
+    width: 80%;
+    margin: 20px;
+    align-items: center;
+    padding: 80px;
+    font-family: "Caveat";
+}
+.button4{
+    border-style: solid;
+    height: 25px;
+    background-color: #d17785;
+    border-width: 1px;
+    margin: 1px;
+}
+.background4{
+    background-color: #083880;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.card4{
+    padding:10px;
+    margin: 10px;
+}
+.card5{
+    background-color: #5a5861;
+    border-top-style: dotted;
+    width: 100%
+}
